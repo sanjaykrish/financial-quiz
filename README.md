@@ -1,3 +1,3 @@
 # financial-quiz
 Test financial quiz website
-At https://sanjaykrish.github.io
+at https://sanjaykrish.github.io/financial-quiz/
